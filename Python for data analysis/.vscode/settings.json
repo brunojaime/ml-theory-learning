@@ -1,0 +1,9 @@
+{
+    "editor.suggest.showClasses": true,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showInterfaces": false,
+    "editor.suggest.showFunctions": false,
+    "editor.suggest.showOperators": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showModules": false
+}
